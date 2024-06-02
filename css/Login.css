@@ -1,0 +1,112 @@
+
+.form13 {
+    margin: auto;
+    margin-top:30px;
+    padding-top: 50px;
+    width: 280px;
+    height: max-content;
+    color: #000;
+    border-radius: 4px;
+    padding: 30px 20px;
+    background-color: #f5f5f5;
+    font-family: "Inter", sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .form13 .form13-heading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .form13 form {
+    margin-top: 20px;
+  }
+  .form13 .inputBox {
+    margin-top: 10px;
+  }
+  .form13 .inputBox label {
+    font-size: 14px;
+    color: #4e4e4e;
+    font-weight: 500;
+  }
+  .form13 .inputBox input {
+    width: 90%;
+    padding: 10px;
+    outline: none;
+    color: #000;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+    background-color: transparent;
+  }
+  .form13 .forgot-password {
+    margin: 8px 0;
+  }
+  .form13 .forgot-password a,
+  .form13 .signup-link a {
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .form13 .login-button {
+    width: 100%;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 5px;
+    cursor: pointer;
+    background-color: #5a28cc;
+  }
+  .form13 .social-links {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+  }
+  .form13 .divider {
+    height: 1px;
+    flex: 1 1 0%;
+    background-color: #5a28cc;
+  }
+  .form13 .social-links p {
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 14px;
+    color: #4e4e4e;
+  }
+  .form13 .social-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+  }
+  .form13 .social-buttons button {
+    padding: 9px 13px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  .form13 .social-buttons button svg {
+    height: 20px;
+    width: 20px;
+    fill: #000;
+  }
+  .form13 .signup-link {
+    font-size: 12px;
+    text-align: center;
+    color: #4e4e4e;
+  }
+  .form13 .signup-link a {
+    padding-left: 5px;
+  }
+  .form13 .inputBox input:focus {
+    border-color: #5a28cc;
+    box-shadow: none;
+  }
+  .form13 .forgot-password a:hover,
+  .form13 .signup-link a:hover {
+    text-decoration: underline #000;
+  }
+  
